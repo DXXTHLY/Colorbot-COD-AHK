@@ -67,6 +67,10 @@ If you encounter issues or the script isn't functioning as expected:
 - Ensure the script is named `Menu3.0.0.exe`. If it isn't, rename it to match the required filename.
 - Double-check that AutoHotkey is installed and correctly configured on your system.
 - Ensure that your game settings are configured properly to allow the script to interact with the screen and detect pixels.
+- Ensure you enable FOV in the menu settings or this will cause mouse movements to spaz out.
+- Ensure you're on 1920x1080p resolution, desktop and game. (May work on other resolutions).
+- Ensure Enemy Names in the options are set to Icon Only.
+- Ensure Enemy Colour in game is set to #DF00FF.
 
 ## License
 This script is provided as-is with no guarantees. The creator is not responsible for any consequences of using the script, including but not limited to bans from game servers or any other unintended effects.
