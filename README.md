@@ -58,7 +58,7 @@ The script provides a user-friendly interface with two main pages:
   - **Dropshot Mode**: Automatically drops the character when the right trigger (or equivalent button) is pressed.
   - **Shotgun Mode**: Automatically fires repeatedly when activated, ideal for controller users.
 
-Currently, we're working on updates for the **Aim Lock** feature, and any new updates will be posted in the [Discord Server] before being made available on the GitHub page.
+Currently, we're working on updates for the **Aim Lock** feature, and any new updates will be posted in the [Discord Server](https://dsc.gg/143x) before being made available on the GitHub page.
 
 
 ## Troubleshooting
