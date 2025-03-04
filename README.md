@@ -1,5 +1,7 @@
 # Teedo Menu: AHK Script for Call of Duty
 
+# Some of the releases are not in order, so scrolling through all releases is a must.
+
 ## Overview
 This AutoHotkey script, **Teedo Menu**, is a utility designed to enhance gameplay with various features such as recoil control, lock-on targeting, triggerbot, FOV (Field of View) display, dropshot functionality, and predictive aiming. It features a GUI (Graphical User Interface) that allows easy configuration and control of these features.
 
