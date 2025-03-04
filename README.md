@@ -29,7 +29,7 @@ The script provides a range of customization options for the user to tailor thei
 1. Download and install AutoHotkey.
 2. Save the script as `MenuX.X.X.exe` (this is required for the script to function correctly).
 3. Double-click the `MenuX.X.X.exe` to start the script.
-4. The X.X.X depends on the version of which you downloaded. Basically keep the name the same.
+4. The `X.X.X` depends on the version of which you downloaded. Basically keep the name the same.
 
 ## Script Usage
 ### Hotkeys:
