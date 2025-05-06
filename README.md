@@ -81,3 +81,4 @@ This script is provided as-is with no guarantees. The creator is not responsible
 ## Contact
 - **YouTube**: [Teedo](https://youtube.com/qwoah)
 - **Discord**: [Discord Server](https://dsc.gg/143x)
+- **JOIN THE DISCORD IF INTERESTED IN BUYING OUR HWID SPOOFER. PREVENTS HWID BANS/UNBANS HWID'S FOR TIME GIVEN**
